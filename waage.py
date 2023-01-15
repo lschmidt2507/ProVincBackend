@@ -47,7 +47,7 @@ while True:
         val = hx.get_weight(5)
         print(val)
         params = dict(
-            authToken="zoW!C3815J1L",
+            authToken="",
             measurement=val
         )
         try:
